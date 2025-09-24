@@ -5,3 +5,4 @@
 - Updated API docs
 ## Security Updates
 - Added input validation for user forms
+- Improved error handling in API responses
